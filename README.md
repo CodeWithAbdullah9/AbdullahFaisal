@@ -17,7 +17,7 @@
 - 🔭 I'm currently working on **scalable web applications with Laravel & React**
 - 🌱 Exploring **modern full-stack development**
 - 💬 Ask me about **Laravel, React, Python, Django**
-- 📫 Reach me: **abdullah@example.com** *(apna email dal lena)*
+- 📫 Reach me: **binfaisal300@gmail.com** 
 
 ---
 
